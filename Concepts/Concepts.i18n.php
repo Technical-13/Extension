@@ -20,7 +20,7 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Fryed-peach
- * @author Khaledelmansourya
+ * @author Khaledelmansoury
  * @author Purodha
  * @author Shirayuki
  * @author Siebrand
